@@ -16,9 +16,8 @@ Video File: WEDNESDAY DOWNTOWN 2016-07-13.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 32
-Video Position: 2818
+Active Line: 5
+Video Position: 665
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +36,7 @@ Dialogue: 0,0:00:05.42,0:00:07.52,Matsumoto,,0,0,0,,Yes, thank you
 Dialogue: 0,0:00:07.52,0:00:08.67,Matsumoto,,0,0,0,,Shall we begin?
 Dialogue: 0,0:00:08.67,0:00:11.77,Hamada,,0,0,0,,Everyone please welcome our first presenter
 Dialogue: 0,0:00:17.98,0:00:22.20,Hamada,,0,0,0,,Yasuko Mitsuura of Oasis
-Dialogue: 0,0:00:20.89,0:00:22.20,Matsumoto,,0,0,0,,text1
+Dialogue: 0,0:00:20.89,0:00:22.20,Matsumoto,,0,0,0,,We're well acquainted
 Dialogue: 0,0:00:23.08,0:00:26.12,Hamada,,0,0,0,,You're usually over there
 Dialogue: 0,0:00:24.08,0:00:26.12,Default,,0,0,0,,Yes, this is my first time on this side
 Dialogue: 0,0:00:26.12,0:00:28.49,Default,,0,0,0,,Good evening, thank you for having me
@@ -64,45 +63,45 @@ Dialogue: 0,0:01:21.43,0:01:26.45,Default,,0,0,0,,It was like she was thinking "
 Dialogue: 0,0:01:26.45,0:01:28.04,Default,,0,0,0,,How about you two?
 Dialogue: 0,0:01:28.04,0:01:32.08,Default,,0,0,0,,I think a lot of my friends are similar.\NThey ask for a picture but-
 Dialogue: 0,0:01:32.08,0:01:33.18,Default,,0,0,0,,They only look at themselves
-Dialogue: 0,0:01:33.18,0:01:34.04,Default,,0,0,0,,I see
-Dialogue: 0,0:01:34.04,0:01:39.32,Default,,0,0,0,,text1
-Dialogue: 0,0:01:38.05,0:01:39.32,Hamada,,0,0,0,,text2
-Dialogue: 0,0:01:39.32,0:01:44.33,Default,,0,0,0,,text1
-Dialogue: 0,0:01:44.33,0:01:48.48,Default,,0,0,0,,text2
-Dialogue: 0,0:01:49.75,0:01:55.34,Default,,0,0,0,,text1
-Dialogue: 0,0:01:53.23,0:01:55.34,Matsumoto,,0,0,0,,text2
-Dialogue: 0,0:01:55.34,0:01:57.44,Default,,0,0,0,,text1
-Dialogue: 0,0:01:57.44,0:01:59.86,Hamada,,0,0,0,,text2
-Dialogue: 0,0:01:59.86,0:02:02.61,Matsumoto,,0,0,0,,text1
-Dialogue: 0,0:02:03.31,0:02:09.28,Narrator,,0,0,0,,text2
-Dialogue: 0,0:02:09.28,0:02:10.41,Narrator,,0,0,0,,text1
-Dialogue: 0,0:02:13.16,0:02:14.69,Narrator,,0,0,0,,text2
-Dialogue: 0,0:02:14.69,0:02:16.94,Narrator,,0,0,0,,text1
-Dialogue: 0,0:02:16.94,0:02:19.32,Narrator,,0,0,0,,text2
-Dialogue: 0,0:02:20.08,0:02:24.80,Narrator,,0,0,0,,text1
-Dialogue: 0,0:02:25.74,0:02:31.14,Narrator,,0,0,0,,text2
-Dialogue: 0,0:02:50.97,0:02:53.85,Narrator,,0,0,0,,text1
-Dialogue: 0,0:02:56.97,0:03:02.01,Hamada Talking Over,,0,0,0,,text1
-Dialogue: 0,0:02:53.85,0:02:57.76,Narrator,,0,0,0,,text2
-Dialogue: 0,0:02:58.42,0:03:03.45,Narrator,,0,0,0,,text1
-Dialogue: 0,0:03:03.45,0:03:08.62,Narrator,,0,0,0,,text2
-Dialogue: 0,0:03:08.62,0:03:12.24,Narrator,,0,0,0,,text1
-Dialogue: 0,0:03:12.24,0:03:15.99,Narrator,,0,0,0,,text2
-Dialogue: 0,0:03:16.99,0:03:19.80,Narrator,,0,0,0,,text1
-Dialogue: 0,0:03:19.80,0:03:24.89,Narrator,,0,0,0,,text2
-Dialogue: 0,0:03:24.89,0:03:29.92,Default,,0,0,0,,text1
-Dialogue: 0,0:03:29.92,0:03:31.83,Default,,0,0,0,,text2
-Dialogue: 0,0:03:31.83,0:03:33.98,Default,,0,0,0,,text1
-Dialogue: 0,0:03:33.98,0:03:35.84,Default,,0,0,0,, text2
-Dialogue: 0,0:03:35.84,0:03:37.56,Default,,0,0,0,,text1
-Dialogue: 0,0:03:36.42,0:03:37.56,Default,,0,0,0,,text2
-Dialogue: 0,0:03:37.56,0:03:41.73,Narrator,,0,0,0,,text1
-Dialogue: 0,0:03:41.73,0:03:45.30,Narrator,,0,0,0,,text2
-Dialogue: 0,0:03:47.17,0:03:48.88,Default,,0,0,0,,text1
+Dialogue: 0,0:01:33.18,0:01:34.04,Default,,0,0,0,,Right?
+Dialogue: 0,0:01:34.04,0:01:39.32,Default,,0,0,0,,I think it's best that if you ask for a photo,\Nyou should let them take it for you
+Dialogue: 0,0:01:38.05,0:01:39.32,Hamada,,0,0,0,,For sure
+Dialogue: 0,0:01:39.32,0:01:44.33,Default,,0,0,0,,I think this is something only {\i1}moderately{\i0} cute girls do
+Dialogue: 0,0:01:44.33,0:01:48.48,Default,,0,0,0,,Real cute girls have real cute friends
+Dialogue: 0,0:01:49.75,0:01:55.34,Default,,0,0,0,,That fastball came out of nowhere-\N right into my face
+Dialogue: 0,0:01:53.23,0:01:55.34,Matsumoto,,0,0,0,,KERPOW, right?
+Dialogue: 0,0:01:55.34,0:01:57.44,Default,,0,0,0,,I'm speechless
+Dialogue: 0,0:01:57.44,0:01:59.86,Hamada,,0,0,0,,That's quite an opinion
+Dialogue: 0,0:01:59.86,0:02:02.61,Matsumoto,,0,0,0,,It feels like you have a superiority complex
+Dialogue: 0,0:02:03.31,0:02:09.28,Narrator,,0,0,0,,Coming up-\NDoes the profile picture belong to the cuter girl?
+Dialogue: 0,0:02:09.28,0:02:10.41,Narrator,,0,0,0,,After that-
+Dialogue: 0,0:02:13.16,0:02:14.69,Narrator,,0,0,0,,Can you bunt a home run?
+Dialogue: 0,0:02:14.69,0:02:16.94,Narrator,,0,0,0,,Using an automatic pitching machine-
+Dialogue: 0,0:02:16.94,0:02:19.32,Narrator,,0,0,0,,we put it to the test
+Dialogue: 0,0:02:20.08,0:02:24.80,Narrator,,0,0,0,,Then, can you play telephone with various genres?
+Dialogue: 0,0:02:25.74,0:02:31.14,Narrator,,0,0,0,,The theory that you are not considered a professional unless you have a perfect knowledge about your signature act
+Dialogue: 0,0:02:50.97,0:02:53.85,Narrator,,0,0,0,,If a profile picture has two girls-
+Dialogue: 0,0:02:56.97,0:03:02.01,Hamada Talking Over,,0,0,0,,I wonder if this will end up being true?
+Dialogue: 0,0:02:53.85,0:02:57.76,Narrator,,0,0,0,,it belongs to the cute one, theory
+Dialogue: 0,0:02:58.42,0:03:03.45,Narrator,,0,0,0,,First, we searched for girls that have a profile picture with their friend in it
+Dialogue: 0,0:03:03.45,0:03:08.62,Narrator,,0,0,0,,Then we asked nearby boys which is cuter
+Dialogue: 0,0:03:08.62,0:03:12.24,Narrator,,0,0,0,,Finally we'll find out which one is the real owner
+Dialogue: 0,0:03:12.24,0:03:15.99,Narrator,,0,0,0,,Will it be the cute one?
+Dialogue: 0,0:03:16.99,0:03:19.80,Narrator,,0,0,0,,This was the first photo we found
+Dialogue: 0,0:03:19.80,0:03:24.89,Narrator,,0,0,0,,A profile picture with friends, ages 25 and 22
+Dialogue: 0,0:03:24.89,0:03:29.92,Default,,0,0,0,,Could you please tell us which of the girls in this photo is cuter?
+Dialogue: 0,0:03:29.92,0:03:31.83,Default,,0,0,0,,The left
+Dialogue: 0,0:03:31.83,0:03:33.98,Default,,0,0,0,,The one on the left is cutest
+Dialogue: 0,0:03:33.98,0:03:35.84,Default,,0,0,0,,Left
+Dialogue: 0,0:03:35.84,0:03:37.56,Default,,0,0,0,,The left one?
+Dialogue: 0,0:03:36.42,0:03:37.56,Default,,0,0,0,,Yeah
+Dialogue: 0,0:03:37.56,0:03:41.73,Narrator,,0,0,0,,With 3 votes to 0, the streets have chosen the girl on the left
+Dialogue: 0,0:03:41.73,0:03:45.30,Narrator,,0,0,0,,So which one does the profile picture belong to?
+Dialogue: 0,0:03:47.17,0:03:48.88,Default,,0,0,0,,Thank you for helping
 Dialogue: 0,0:03:47.91,0:03:51.72,Matsumoto Talking Over,,0,0,0,,text
-Dialogue: 0,0:03:49.70,0:03:52.06,Narrator,,0,0,0,,text2
-Dialogue: 0,0:03:56.31,0:04:01.19,Default Talking Over,,0,0,0,,text
-Dialogue: 0,0:03:57.85,0:04:00.55,Narrator,,0,0,0,,text1
+Dialogue: 0,0:03:49.70,0:03:52.06,Narrator,,0,0,0,,Sure enough
+Dialogue: 0,0:03:56.31,0:04:01.19,Default Talking Over,,0,0,0,,Ah, of course it is
+Dialogue: 0,0:03:57.85,0:04:00.55,Narrator,,0,0,0,,It was the cute one
 Dialogue: 0,0:04:03.59,0:04:07.38,Default Talking Over,,0,0,0,,text
 Dialogue: 0,0:04:01.06,0:04:05.17,Hamada Talking Over,,0,0,0,,text
 Dialogue: 0,0:04:02.09,0:04:04.82,Default,,0,0,0,,text2
